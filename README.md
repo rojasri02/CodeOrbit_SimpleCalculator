@@ -213,7 +213,7 @@ SimpleCalculator/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/rojasri02/CodeOrbit_SimpleCalculator.git>
 ```
 
 ### 2. Navigate to the Project Folder
