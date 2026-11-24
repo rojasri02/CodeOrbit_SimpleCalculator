@@ -164,17 +164,17 @@ The application contains the following main screens:
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of your running application here.
+## 📸 Screenshots
 
 ### 🧮 Calculator Screen
 
-<!-- Add Calculator Screen Screenshot Here -->
+![Calculator Screen](Screenshots/calculator.png)
 
 ### 📋 History Screen
 
-<!-- Add History Screen Screenshot Here -->
+![History Screen](Screenshots/history.png)
+
 
 ---
 
